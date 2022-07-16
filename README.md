@@ -4,6 +4,8 @@
 
 **Docente:** Prof. Dr. Iális Cavalcante de Paula Junior
 
+**Equipe:**
+
 Maria Gabriele Bezerra da Silva - 403736
 
 Mariana Teixeira de Castro - 403363
