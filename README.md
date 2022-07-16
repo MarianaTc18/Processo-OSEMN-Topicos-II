@@ -16,9 +16,9 @@ No presente trabalho iremos aplicar o Processo OSEMN com problemas ligados a ci�
 * Model - Modelagem dos dados;
 * iNterpret - Interpretação dos dados.
 
-* Linguagem de Programação Utilizada: Python
+Linguagem de Programação Utilizada: Python
 
-* Links da apresentação do Trabalho:
+**Links da apresentação do Trabalho:**
 
 * Parte I - https://youtu.be/1aF1ipAUS-k
 
