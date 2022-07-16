@@ -8,7 +8,7 @@ Maria Gabriele Bezerra da Silva - 403736
 
 Mariana Teixeira de Castro - 403363
 
-No presente trabalho iremos aplicar o Processo OSEMN com problemas ligados a ciência de dados. Este processo é definido por um conjunto de 5 (cinco) etapas:
+No presente trabalho iremos aplicar o Processo OSEMN com problemas ligados a ciência de dados. Este processo se subdivide em 5 (cinco) etapas:
 
 * Obtain - Obtenção dos dados;
 * Scrub - Limpeza dos dados;
