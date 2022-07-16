@@ -2,7 +2,7 @@
 
 **Trabalho Final da disciplina de Tópicos Especiais de Computação II**
 
-**Docente:** Prof. Iális Cavalcante.
+**Docente:** Prof. Dr. Iális Cavalcante de Paula Junior
 
 Maria Gabriele Bezerra da Silva - 403736
 
